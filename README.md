@@ -51,9 +51,6 @@ I’m passionate about storytelling through data and making it the center of dec
 6. [Predicting Electricity Load in New Hampshire](https://github.com/Ruqhaiya/Predicting-Electricity-Load-in-New-Hampshire)
 7. [DBMS Project Enhancements](https://github.com/Ruqhaiya/Dbms-Project-Enhancements)
 
-
-Let me know if you'd like further modifications!
-
 ---
 
 ## 📫 Connect with Me
