@@ -1,6 +1,6 @@
 ---
 
-# Hi, I'm Ruqhaiya Fatima Syeda 👋
+# Hi, I'm Ruqhaiya F. Syeda 👋
 
 👩‍💻 **Data Engineer** | 📊 **Data Scientist** | 🧠 **Neuroscience Enthusiast**
 
