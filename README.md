@@ -19,26 +19,39 @@ I’m passionate about storytelling through data and making it the center of dec
 - Data Cleaning, Processing, and Transformation
 - Data Modeling & Warehousing (Snowflake, MySQL, PostgreSQL)
 - Unit Testing & Automation (DBT, Agile, Scrum)
+- Hadoop, PySpark
 
 ### 🔍 Machine Learning & Data Science:
 - Predictive & Statistical Modeling
-- Neural Networks, Decision Trees, and Ensemble Models
-- Regression Techniques, Dimensionality Reduction (SVD)
+- Neural Networks, Decision Trees, and Ensemble Methods (Random Forests, Bagging, Boosting)
+- Supervised Learning (Regression, Classification)
+- Unsupervised Learning (Clustering, Dimensionality Reduction)
+- Time Series Analysis
+- Feature Engineering
+- Statistical Inference
 - Numpy, Pandas, Scikit-learn, R-Shiny, PySpark
+- Data Visualization (2D/3D plotting, PCA biplots)
 - Statistical Machine Learning, Data Analytics
 
 ### ☁️ Cloud & Platforms:
 - AWS (S3, Lambda, EC2)
 - Microsoft Azure (DevOps, Power Apps, Function Apps)
 - ArcGIS Pro, Jira
+- Azure DevOps CI/CD pipelines
 
 ### 📦 Databases:
 - Relational: MySQL, PostgreSQL
 - NoSQL: MongoDB
+- Snowflake Data Warehouse
 
 ### 📊 Data Visualization & BI Tools:
 - Tableau, Power BI, R-Shiny, Excel
 - Matplotlib, Seaborn, Tkinter GUI
+
+### 📚 Developer Tools & Libraries:
+- Git, GitHub
+- OpenAI
+- Numpy, Pandas, Matplotlib, Seaborn
 
 ---
 
