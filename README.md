@@ -82,8 +82,4 @@ I'm open to collaborating on data-driven projects, especially those integrating 
 ⭐ **Feel free to explore my repositories and leave a star if you find something helpful!** ⭐
 
 Let me know if there’s anything more you’d like to add or adjust!
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ruqhaiya)](https://git.io/streak-stats)
-![Ruqhaiya's Stats](https://github-readme-stats.vercel.app/api?username=Ruqhaiya&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![Ruqhaiya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruqhaiya&theme=vue-dark&hide_border=false)
-![Ruqhaiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruqhaiya&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Ruqhaiya=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
