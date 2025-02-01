@@ -82,4 +82,4 @@ I'm open to collaborating on data-driven projects, especially those integrating 
 ⭐ **Feel free to explore my repositories and leave a star if you find something helpful!** ⭐
 
 Let me know if there’s anything more you’d like to add or adjust!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Ruqhaiya=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruqhaiya)](https://github.com/anuraghazra/github-readme-stats)
