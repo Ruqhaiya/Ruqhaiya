@@ -71,7 +71,6 @@ I’m passionate about storytelling through data and making it the center of dec
 ## 📫 Connect with Me
 
 - LinkedIn: [Ruqhaiya Fatima Syeda](https://www.linkedin.com/in/ruqhaiya-f-703425174/)
-- GitHub: [Ruqhaiya](https://github.com/Ruqhaiya)
 
 ---
 
